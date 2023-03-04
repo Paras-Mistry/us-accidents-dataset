@@ -6,4 +6,4 @@ The dataset includes a wide variety of information about each accident, such as 
 
 In addition, the dataset contains information about the road conditions, such as whether the road was wet or dry, the speed limit, and the type of roadway (e.g. highway, residential street, etc.). It also includes information about the vehicles involved in the accident, such as the make and model, the type of vehicle (e.g. car, truck, motorcycle), and the number of vehicles involved.
 
-link: US_Accidents_Dec21_updated
+link: https://www.kaggle.com/code/jagrutidhanrajpatil/us-accidents-eda-2016-2021/input?select=US_Accidents_Dec21_updated.csv
